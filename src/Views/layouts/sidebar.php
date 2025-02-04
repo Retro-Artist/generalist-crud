@@ -1,0 +1,1 @@
+<!-- Sidebar template will go here -->

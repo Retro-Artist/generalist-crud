@@ -1,0 +1,1 @@
+<?php // Configuration settings will go here

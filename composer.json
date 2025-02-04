@@ -1,0 +1,8 @@
+{
+    "name": "your-name/crud-system",
+    "description": "A simple CRUD system",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    }
+}
